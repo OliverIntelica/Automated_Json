@@ -1,7 +1,7 @@
 {
   "model_details": {
     "name": "human_coc_follicular",
-    "version": "0.3.0",
+    "version": "0.2.3",
     "type": "Object detection",
     "author": "Conceivable Life Sciences",
     "licenses": "Ultralytics YOLO V5",
