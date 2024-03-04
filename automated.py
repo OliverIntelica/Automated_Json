@@ -22,6 +22,3 @@ datos['model_details']['version'] = linea_a_cambiar
 # Se escriben los cambios en el archivo json
 with open(archivo_json, 'w', encoding='utf-8') as archivo:
     json.dump(datos, archivo, indent=2)
-
-# Only for testing
-print(datos['model_details']['version'])
